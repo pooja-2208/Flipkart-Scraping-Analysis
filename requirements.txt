@@ -1,0 +1,12 @@
+streamlit
+plotly
+requests
+beautifulsoup4
+pandas
+numpy
+sqlalchemy
+statsmodels
+python-dotenv
+scipy
+streamlit-autorefresh
+pymssql
