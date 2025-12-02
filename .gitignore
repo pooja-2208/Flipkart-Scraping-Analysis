@@ -1,0 +1,7 @@
+__pycache__/
+
+.env
+streamlit.env
+encrypted.env
+
+.vscode/
